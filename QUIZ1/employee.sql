@@ -46,7 +46,7 @@ INSERT INTO `employee` (`emp_id`, `first_name`, `last_name`, `birth_date`, `sex`
 (100, 'Jan', 'Levinson', '1961-05-11', 'F', 110000, 1, NULL),
 (101, 'Michael', 'Scott', '1964-03-15', 'M', 75000, 2, 100),
 (102, 'Josh', 'Porter', '1969-09-05', 'M', 78000, 3, 100),
-(103, 'Angela', 'Martin', '1971-06-25', 'M', 63000, 2, 101),
+(103, 'Angela', 'Martin', '1971-06-25', 'F', 63000, 2, 101),
 (104, 'Andy', 'Bernard', '1973-07-22', 'M', 65000, 3, 101);
 
 --
